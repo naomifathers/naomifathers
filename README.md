@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development, cute video games, and donuts
 - 🌱 I’m currently learning responsive design and PHP
 - 💪 I'm good with HTML/CSS and Git/GitHub 
-- 💞️ I’m looking to collaborate on simple lil' web dev projects!
+- 💞️ I’m looking to collaborate on frontend web dev projects!
 - 📫 How to reach me: www.naomifathers.com
 
 <!---

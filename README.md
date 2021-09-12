@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naomifathers
 - 👀 I’m interested in front end development, cute video games, and donuts
-- 🌱 I’m currently learning vanilla javascript
+- 🌱 I’m currently learning vanilla JavaScript
 - 💪 I'm good with HTML/CSS, responsive design, and Git/GitHub 
 - 💞️ I’m looking to collaborate on frontend web dev projects!
 - 📫 How to reach me: www.naomifathers.com

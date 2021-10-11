@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning vanilla JavaScript
 - 💪 I'm good with HTML/CSS, responsive design, and Git/GitHub 
 - 💞️ I’m looking to collaborate on frontend web dev projects!
-- 📫 How to reach me: www.naomifathers.com
+- 📫 How to reach me: www.naomicodes.com
 
 <!---
 naomifathers/naomifathers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naomifathers
-- 👀 I’m interested in front end development, cute video games, and donuts
+- 👀 I’m interested in front end development and 'tech for good'
 - 🌱 I’m currently learning vanilla JavaScript
 - 💪 I'm good with HTML/CSS, responsive design, and Git/GitHub 
 - 💞️ I’m looking to collaborate on frontend web dev projects!

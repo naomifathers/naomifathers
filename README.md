@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning vanilla JavaScript
 - 💪 I'm good with HTML/CSS, responsive design, and Git/GitHub 
-- 💞️ I’m looking to collaborate on frontend web dev projects!
+- 💞️ I’m looking to collaborate on 'tech for good' projects!
 - 📫 Message me here or email me at naomifathers@gmail.com 
 
 <!---

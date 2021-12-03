@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @naomifathers
-- 👀 I’m interested in front end development and 'tech for good'
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning vanilla JavaScript
 - 💪 I'm good with HTML/CSS, responsive design, and Git/GitHub 
 - 💞️ I’m looking to collaborate on frontend web dev projects!
-- 📫 How to reach me: www.naomicodes.com
+- 📫 Message me here or email me at naomifathers@gmail.com 
 
 <!---
 naomifathers/naomifathers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
